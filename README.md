@@ -1,8 +1,7 @@
 # desafio-github-markdown-projeto
-# Hi 👋, I'm Pantharma
-
+---
+# Hi 👋, I'm Victor Lima
 ### IT Business Analyst | IT System Analyst | AI & No-Code Automation
-
 ---
 ![Profile views](https://komarev.com/ghpvc/?username=victorvlima&label=Profile%20views&color=12ff00&style=flat)
 
